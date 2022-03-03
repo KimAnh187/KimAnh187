@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KimAnh187
+- 👋 Hi, I’m @kimanhtranhoang
 - 👀 I’m interested in Data Analysis and web front-end
 - 🌱 I’m currently learning Computer Science at university
 - 💞️ I’m a newbie in coding
