@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimanhtranhoang
-- 👀 I’m interested in Data Analysis and web front-end
-- 🌱 I’m currently learning Computer Science at university
-- 💞️ I’m a newbie in coding
+- 👀 I’m interested in Website Development and Data Analysis 
+- 🌱 I’m currently learning Computer Science at National Economics University 
+- 💞️ The quote that resonates with me the most is "If you want to succeed, you have to start from today!"
 - 📫 How to reach me: via kimanhtranhoang@gmail.com
 
 <!---
